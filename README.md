@@ -1,4 +1,4 @@
-# pythonGraph
+# Graphs.py
 Programação de **_Grafos_** em Python.
 
 **_Leonardo Damasio_**
